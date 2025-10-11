@@ -4,7 +4,7 @@ from queue import PriorityQueue
 
 import random
 # ==== Window / UI sizes ====
-WIDTH = 800            # grid is WIDTH x WIDTH
+WIDTH = 700            # grid is WIDTH x WIDTH
 UI_H = 60              # height of bottom UI bar
 WIN = pygame.display.set_mode((WIDTH, WIDTH + UI_H))
 pygame.display.set_caption("A* Path Finding Algorithm")
