@@ -5,6 +5,14 @@ It allows users to interactively set start and end points, draw obstacles, and v
 
 ---
 
+## 🎥 Project Demo
+
+**Watch the A* Algorithm in action:**
+
+https://github.com/user-attachments/assets/3d3dd05b-6670-47cc-8233-7cef03b25d02
+
+---
+
 ## 🚀 Features
 
 - Interactive **grid-based visualization** built with Pygame
@@ -24,7 +32,6 @@ To demonstrate the efficiency of intelligent search algorithms, this project inc
 The graph below visualizes the performance difference when attempting to reach 5 specific targets:
 
 ![Comparison Result](./result.png)
-*(Make sure to add your image file to the repo and update this path)*
 
 | Metric | A* (Straight-line) | Zigzag (Strided) | Analysis |
 | :--- | :--- | :--- | :--- |
@@ -39,13 +46,11 @@ We have prepared a Google Colab notebook where you can run this simulation yours
 
 ---
 
-## 🧰 Requirements
+## 🛠 Installation & Setup
 
-Ensure you have **Python 3.8+** installed.
+Ensure you have **Python 3.8+** installed on your machine.
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/Intro_algo_mini_project.git](https://github.com/your-username/Intro_algo_mini_project.git)
-   cd Intro_algo_mini_project
+### 1. Clone the Repository
+```bash
+git clone [https://github.com/your-username/Intro_algo_mini_project.git](https://github.com/your-username/Intro_algo_mini_project.git)
+cd Intro_algo_mini_project
