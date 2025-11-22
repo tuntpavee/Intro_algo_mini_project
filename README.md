@@ -23,7 +23,7 @@ To demonstrate the efficiency of intelligent search algorithms, this project inc
 
 The graph below visualizes the performance difference when attempting to reach 5 specific targets:
 
-![Comparison Result](./comparison_result.png)
+![Comparison Result](./result.png)
 *(Make sure to add your image file to the repo and update this path)*
 
 | Metric | A* (Straight-line) | Zigzag (Strided) | Analysis |
